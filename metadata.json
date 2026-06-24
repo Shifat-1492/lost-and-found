@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Lost and Found",
+  "description": "A comprehensive collaborative Lost and Found platform with user authentication, real-time items search/filter, a real-time chat messenger, user profile statistics, and an Admin moderation panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

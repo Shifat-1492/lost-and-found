@@ -1,0 +1,50 @@
+[
+  {
+    "id": "msg1",
+    "chatId": "chat1",
+    "senderId": "user2",
+    "senderName": "Taj Tarafder",
+    "content": "Hi Sarah, is this wallet still lost? I saw something very similar near Bethesda Fountain.",
+    "timestamp": "2026-06-23T10:25:00.000Z"
+  },
+  {
+    "id": "msg2",
+    "chatId": "chat1",
+    "senderId": "user1",
+    "senderName": "Sarah Jenkins",
+    "content": "Oh my goodness, yes it is! What did it look like?",
+    "timestamp": "2026-06-23T10:27:00.000Z"
+  },
+  {
+    "id": "msg3",
+    "chatId": "chat1",
+    "senderId": "user2",
+    "senderName": "Taj Tarafder",
+    "content": "I have the wallet safely stored. I will send you a picture to confirm.",
+    "timestamp": "2026-06-23T10:29:00.000Z"
+  },
+  {
+    "id": "msg4",
+    "chatId": "chat2",
+    "senderId": "user1",
+    "senderName": "Sarah Jenkins",
+    "content": "Hey Taj, is that found iPhone still with you?",
+    "timestamp": "2026-06-23T10:15:00.000Z"
+  },
+  {
+    "id": "msg5",
+    "chatId": "chat2",
+    "senderId": "user2",
+    "senderName": "Taj Tarafder",
+    "content": "Yes! It’s locked but I’m hoping to find the real owner.",
+    "timestamp": "2026-06-23T10:18:00.000Z"
+  },
+  {
+    "id": "msg6",
+    "chatId": "chat2",
+    "senderId": "user1",
+    "senderName": "Sarah Jenkins",
+    "content": "Sounds perfect! Let us arrange a secure meeting place.",
+    "timestamp": "2026-06-23T10:19:51.000Z"
+  }
+]

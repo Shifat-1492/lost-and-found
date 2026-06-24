@@ -1,0 +1,44 @@
+[
+  {
+    "id": "shifat_admin",
+    "name": "Ahmmed Shifat",
+    "email": "ahmmedshifat64649@gmail.com",
+    "role": "admin",
+    "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Ahmmed%20Shifat&backgroundColor=4f46e5"
+  },
+  {
+    "id": "admin",
+    "name": "Nafiz Ahmed Emon (Admin)",
+    "email": "admin@example.com",
+    "role": "admin",
+    "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Nafiz%20Ahmed%20Emon&backgroundColor=4f46e5"
+  },
+  {
+    "id": "user1",
+    "name": "Sarah Jenkins",
+    "email": "sarah@example.com",
+    "role": "user",
+    "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Sarah%20Jenkins&backgroundColor=0ea5e9"
+  },
+  {
+    "id": "user2",
+    "name": "Taj Tarafder",
+    "email": "taj@example.com",
+    "role": "user",
+    "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Taj%20Tarafder&backgroundColor=10b981"
+  },
+  {
+    "id": "user3",
+    "name": "Akash Ahmed",
+    "email": "akash@example.com",
+    "role": "user",
+    "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Akash%20Ahmed&backgroundColor=f59e0b"
+  },
+  {
+    "id": "user4",
+    "name": "Osama Hossain",
+    "email": "osama@example.com",
+    "role": "user",
+    "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Osama%20Hossain&backgroundColor=8b5cf6"
+  }
+]
